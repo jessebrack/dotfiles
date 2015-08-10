@@ -16,3 +16,7 @@ Thumbs.db
 # Sublime Projects and Workspaces
 *.sublime-project
 *.sublime-workspace
+
+# Ignore node & bower modules
+bower_components
+node_modules
